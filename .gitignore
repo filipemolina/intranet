@@ -6,12 +6,14 @@
 !bootstrap
 !css
 !fontawesome
+!img
 
 # E subpastas...
 
 !bootstrap/*
 !css/*
 !fontawesome/*
+!img/*
 
 # E subsubpastas...
 
