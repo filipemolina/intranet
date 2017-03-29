@@ -1,11 +1,32 @@
 # Ignorar tudo...
 *
 
-# Exceto estes arquivos
+# Exceto estas pastas...
 
 !bootstrap
+!css
+!fontawesome
+
+# E subpastas...
+
+!bootstrap/*
 !css/*
 !fontawesome/*
+
+# E subsubpastas...
+
+!bootstrap/*/*
+!css/*/*
+!fontawesome/*/*
+
+# E subsubsubpastas..
+
+!bootstrap/*/*/*
+!css/*/*/*
+!fontawesome/*/*/*
+
+# E finalmente arquivos
+
 !.gitignore
 !index.html
 
