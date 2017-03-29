@@ -1,0 +1,11 @@
+# Ignorar tudo...
+*
+
+# Exceto estes arquivos
+
+!bootstrap
+!css/*
+!fontawesome/*
+!.gitignore
+!index.html
+
