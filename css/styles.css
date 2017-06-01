@@ -100,3 +100,28 @@ fieldset[disabled] .btn-roxo.active {
 }
 
 /****************************************************** /Botão Customizado  */
+
+.page-title
+{
+  height: auto;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.x_title { text-align: center; }
+.x_title h2 { float: none; }
+
+span.centro {
+    display: inline-block;
+}
+
+.wrp-trabalho {
+    float: left;
+    margin-left: 31px;
+    width: 281px;
+}
+
+span.sobre {
+    color: #fff;
+    font-size: 15px;
+}
